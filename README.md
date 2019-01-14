@@ -1,5 +1,5 @@
 # PowerBIOS
-PowerBIOS is a PowerShell module that enables administration of the dynamic BIOS update system for use by OSD teams.
+PowerBIOS is a PowerShell module that enables administration of a dynamic BIOS update system, designed by Mike Terrill, for use by OSD teams.
 
 
 ## What dynamic BIOS update system?
